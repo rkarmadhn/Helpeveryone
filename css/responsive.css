@@ -67,7 +67,7 @@
     width: 100vw;
     height: 100vh;
     background-color: #fff;
-    transition: all 1s ease-in-out;
+    transition: all .5s ease-in-out;
     z-index: 999;
   }
 
@@ -77,6 +77,10 @@
 
   .nav-links {
     margin: 10px 0;
+  }
+
+  #hero {
+    padding: 4rem 0;
   }
 
   .image-floating-first {
